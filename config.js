@@ -1,2 +1,2 @@
-const BASE_URL = "/krishi-vikas-udyog";
+const BASE_URL = "";
 export default BASE_URL;

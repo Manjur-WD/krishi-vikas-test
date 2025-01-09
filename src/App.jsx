@@ -40,7 +40,7 @@ const LazyComponents = {
 // };
 
 const App = () => {
-  const baseUrl = "/krishi-vikas-udyog";
+  const baseUrl = "";
   const guestToken = "31575|yuo3bhA54txVyABiLOouqD5Qa5cMSrXU9VW9ahPu54782d62";
   const location = useLocation();
   const dispatch = useDispatch();
