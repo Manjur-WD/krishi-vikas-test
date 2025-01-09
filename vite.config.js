@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [
     react()
   ],
-  base: "/krishi-vikas-udyog/",
+  // base: "/krishi-vikas-udyog/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "src"),
